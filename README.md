@@ -2,7 +2,8 @@
 
 A script for drug addiction 
 
-
+# Join discord server
+ https://discord.gg/HWejPwZgvQ
 
 
 Insert `JG-DrugAddiction` into your resources folder
